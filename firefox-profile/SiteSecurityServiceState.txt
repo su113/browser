@@ -1,0 +1,6 @@
+firefox.settings.services.mozilla.com:HSTS	0	18360	1617881470026,1,0,2
+services.addons.mozilla.org:HSTS	0	18360	1617883621837,1,0,2
+occusearch.de:HSTS	0	18360	1649417347912,1,1,2
+services.addons.mozilla.org:HPKP	0	18360	1591531621839,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
+shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	18360	1617886440744,1,1,2
+searx.ninja:HSTS	0	18360	1617881417085,1,1,2
